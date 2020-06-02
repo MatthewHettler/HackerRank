@@ -1,2 +1,2 @@
 <h1>HackerRank<h1>
-<p>This repository is to showcase my programming knowledge via my HackerRank submissions. I'll be pushing code for multiple programming languages such as java, javascript, python, and more.<p>
+<h3>This repository is to showcase my programming knowledge via my HackerRank submissions. I'll be pushing code for multiple programming languages such as java, javascript, python, and more.<h3>
