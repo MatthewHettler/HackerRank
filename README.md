@@ -1,2 +1,2 @@
 # HackerRank
->This repository is to showcase my programming knowledge via my HackerRank submissions. I'll be pushing code for multiple programming languages such as java, javascript, python, and more.
+>This repository is to showcase my programming skills/knowledge via my HackerRank submissions. I'll be pushing code utilizing multiple programming languages such as Java, Javascript, Python, and more.
